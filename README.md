@@ -1,2 +1,2 @@
 # hello-world
-Repository 
+Hi, I'm Thei! I do yoga.
